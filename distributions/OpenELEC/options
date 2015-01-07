@@ -12,7 +12,7 @@
   GREETING4=""
 
 # Root password to integrate in the target system
-  ROOT_PASSWORD="openelec"
+  ROOT_PASSWORD="hejsanopenel"
 
 # Mediacenter to use (kodi / no)
   MEDIACENTER="kodi"
